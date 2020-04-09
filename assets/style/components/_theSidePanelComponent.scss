@@ -1,0 +1,80 @@
+%background-shared {
+	background-size: contain;
+	background-repeat: no-repeat;
+	box-sizing: content-box;
+	padding: 1.2rem;
+}
+.panel__wrapper {
+	padding-bottom: 2.5rem;
+}
+.infos {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	padding: 1.5rem 0;
+	text-align: center;
+	.head--container {
+		font-size: 1.4rem;
+		color: darken(white, 70%);
+		letter-spacing: 0.05px;
+	}
+	.date--container {
+		color: darken(white, 60%);
+		letter-spacing: 0.05px;
+		word-spacing: 0.2rem;
+	}
+}
+.indicators {
+	display: grid;
+	grid-gap: 0.6rem;
+	grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+}
+.box {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: no-wrap;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0.8rem;
+	background: darken(white, 45%);
+	border-radius: 2px;
+	&:nth-child(odd) {
+		background: darken(white, 60%);
+	}
+}
+.cc-img-container {
+	background-image: url('../img/cc.svg');
+	@extend %background-shared;
+}
+.pui-img-container {
+	background-image: url('../img/pui.svg');
+	@extend %background-shared;
+}
+.pum-img-container {
+	background-image: url('../img/pum.svg');
+	@extend %background-shared;
+}
+.recovered-img-container {
+	background-image: url('../img/recovered.svg');
+	@extend %background-shared;
+}
+.death-img-container {
+	background-image: url('../img/death.svg');
+	@extend %background-shared;
+}
+
+.panel--container {
+	color: white;
+	text-align: right;
+	font-size: 0.7rem;
+	font-weight: bold;
+	letter-spacing: 0.05px;
+	word-spacing: 0.2rem;
+}
+.stat--container {
+	font-size: 1.1rem;
+	font-weight: bolder;
+}
+

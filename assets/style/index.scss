@@ -1,0 +1,15 @@
+/*abstract*/
+@import 'abstracts/mixins';
+
+/*base*/
+@import 'base/reset';
+
+/*components*/
+@import 'components/theSidePanelComponent';
+@import 'components/theMapComponent';
+@import 'components/theHeaderComponent';
+@import 'components/theSubHeaderComponent';
+@import 'components/theFooterComponent';
+
+/*layouts*/
+@import 'layouts/main';

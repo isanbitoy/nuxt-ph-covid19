@@ -1,0 +1,48 @@
+.map__wrapper {
+	height: 100vh;
+	border: 1.5px solid #DFDBE5;
+	@include tablet-view {
+		height: 100%;
+	}
+}
+.selection {
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    line-height: 20px;
+    font-size: 15px;
+}
+.legend {
+	  padding: 6px 8px;
+	  background: white;
+	  background: rgba(255, 255, 255, 0.8);
+	  line-height: 20px;
+  	color: #555;
+  	h4 {
+  		font-size: 16px;
+ 	 	  margin: 2px 12px 8px;
+  		color: #777;
+  	}
+  	span {
+  		position: relative;
+  		bottom: 3px;
+  	}
+  	i {
+  		width: 18px;
+  		height: 18px;
+  		float: left;
+  		margin: 0 6px 0 0;
+  		opacity: 0.6;
+  	}
+}
+.info__table {
+  border-collapse: collapse;
+  border: 1px solid darken(white, 65%);
+  width: 100%;
+  font-size: 0.9rem;
+  td {
+    border: 1px solid darken(white, 65%);
+    text-align: center;
+    padding: 0.3rem 0.5rem;
+  }
+}

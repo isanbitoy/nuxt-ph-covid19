@@ -1,0 +1,32 @@
+[
+	{
+		"barangay": "<span style=\"font-size: 0.9rem; font-weight: bold\">Brgy. Apokon</span>",
+		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">1</span> confirmed case",
+		"center": [7.4245496, 125.8242705],
+		"radius": 800
+	},
+	{
+		"barangay": "<span style=\"font-size: 0.9rem; font-weight: bold\">Brgy. Madaum</span>",
+		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">1</span> confirmed case",
+		"center": [7.388990, 125.813455],
+		"radius": 800
+	},
+	{
+		"barangay": "<span style=\"font-size: 0.9rem; font-weight: bold\">Brgy. Magugpo East</span>",
+		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">1</span> confirmed case",
+		"center": [7.452423, 125.825849],
+		"radius": 800
+	},
+	{
+		"barangay": "<span style=\"font-size: 0.9rem; font-weight: bold\">Brgy. San Miguel</span>",
+		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">1</span> confirmed case",
+		"center": [7.441117, 125.774189],
+		"radius": 800
+	},
+	{
+		"barangay": "<span style=\"font-size: 0.9rem; font-weight: bold\">Brgy. Visayan Village</span>",
+		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">3</span> confirmed cases",
+		"center": [7.421964, 125.794516],
+		"radius": 1200
+	}
+]

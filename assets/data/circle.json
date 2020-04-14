@@ -18,15 +18,9 @@
 		"radius": 800
 	},
 	{
-		"barangay": "<span style=\"font-size: 0.9rem; font-weight: bold\">Brgy. San Miguel</span>",
-		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">1</span> confirmed case",
-		"center": [7.441117, 125.774189],
-		"radius": 800
-	},
-	{
 		"barangay": "<span style=\"font-size: 0.9rem; font-weight: bold\">Brgy. Visayan Village</span>",
-		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">3</span> confirmed cases",
+		"cases": "<span style=\"color:red; font-size: 1rem; font-weight: bold\">2</span> confirmed cases",
 		"center": [7.421964, 125.794516],
-		"radius": 1200
+		"radius": 1100
 	}
 ]

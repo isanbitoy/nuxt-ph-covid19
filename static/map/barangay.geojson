@@ -630,7 +630,7 @@ const barangayBoundary = {
 			"POP":14427,
 			"AREA":255.51,
 			"CC": 1,
-			"PUM": 7,
+			"PUM": 5,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -784,7 +784,7 @@ const barangayBoundary = {
 			"POP":38963,
 			"AREA":1176,
 			"CC": 0,
-			"PUM": 12,
+			"PUM": 13,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1098,8 +1098,8 @@ const barangayBoundary = {
 			"NAME":"Brgy. San Miguel",
 			"POP":17317,
 			"AREA":609,
-			"CC": 1,
-			"PUM": 4,
+			"CC": 0,
+			"PUM": 5,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1156,7 +1156,7 @@ const barangayBoundary = {
 			"NAME":"Brgy. Visayan Village",
 			"POP":40297,
 			"AREA":1520,
-			"CC": 3,
+			"CC": 2,
 			"PUM": 11,
 			"PUI": 1,
 			"DEATH": 0,

@@ -17,7 +17,7 @@
 	{
 		"className": "recovered-img-container",
 		"label": "RECOVERED",
-		"stat": "2"
+		"stat": "4"
 	},
 	{
 		"className": "death-img-container",

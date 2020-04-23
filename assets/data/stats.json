@@ -7,17 +7,17 @@
 	{
 		"className": "pui-img-container",
 		"label": "PUIs",
-		"stat": "1"
+		"stat": "2"
 	},
 	{
 		"className": "pum-img-container",
 		"label": "PUMs",
-		"stat": "4"
+		"stat": "27"
 	},
 	{
 		"className": "recovered-img-container",
 		"label": "RECOVERED",
-		"stat": "4"
+		"stat": "5"
 	},
 	{
 		"className": "death-img-container",

@@ -6,8 +6,8 @@ const barangayBoundary = {
 			"NAME":"Brgy. Apokon",
 			"POP":29743,
 			"AREA":2630,
-			"CC": 1,
-			"PUM": 0,
+			"CC": 0,
+			"PUM": 5,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -235,7 +235,7 @@ const barangayBoundary = {
 			"POP":10612,
 			"AREA":880,
 			"CC": 0,
-			"PUM": 2,
+			"PUM": 0,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -272,7 +272,7 @@ const barangayBoundary = {
 			"POP":15390,
 			"AREA":550,
 			"CC": 0,
-			"PUM": 1,
+			"PUM": 5,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -707,7 +707,7 @@ const barangayBoundary = {
 			"AREA":980.55,
 			"CC": 0,
 			"PUM": 0,
-			"PUI": 0,
+			"PUI": 1,
 			"DEATH": 0,
 			"RECOVERED": 0
 		},
@@ -784,7 +784,7 @@ const barangayBoundary = {
 			"POP":38963,
 			"AREA":1176,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 3,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1057,7 +1057,7 @@ const barangayBoundary = {
 			"POP":4796,
 			"AREA":802,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 5,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1157,7 +1157,7 @@ const barangayBoundary = {
 			"POP":40297,
 			"AREA":1520,
 			"CC": 2,
-			"PUM": 2,
+			"PUM": 7,
 			"PUI": 1,
 			"DEATH": 0,
 			"RECOVERED": 0

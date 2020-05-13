@@ -2,26 +2,26 @@
 	{
 		"className": "cc-img-container",
 		"label": "CONFIRMED CASES",
-		"stat": "9"
+		"stat": "10"
 	},
 	{
 		"className": "pui-img-container",
 		"label": "PUIs",
-		"stat": "2"
+		"stat": "1"
 	},
 	{
 		"className": "pum-img-container",
 		"label": "PUMs",
-		"stat": "17"
+		"stat": "97"
 	},
 	{
 		"className": "recovered-img-container",
 		"label": "RECOVERED",
-		"stat": "5"
+		"stat": "9"
 	},
 	{
 		"className": "death-img-container",
 		"label": "DEATH",
-		"stat": "0"
+		"stat": "1"
 	}
 ]

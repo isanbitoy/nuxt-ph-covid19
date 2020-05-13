@@ -7,7 +7,7 @@ const barangayBoundary = {
 			"POP":29743,
 			"AREA":2630,
 			"CC": 0,
-			"PUM": 1,
+			"PUM": 11,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -77,7 +77,7 @@ const barangayBoundary = {
 			"POP":4227,
 			"AREA":1485,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 3,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -120,7 +120,7 @@ const barangayBoundary = {
 			"POP":2847,
 			"AREA":1056,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 1,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -203,7 +203,7 @@ const barangayBoundary = {
 			"POP":8136,
 			"AREA":2655,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 3,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -235,8 +235,8 @@ const barangayBoundary = {
 			"POP":10612,
 			"AREA":880,
 			"CC": 0,
-			"PUM": 0,
-			"PUI": 0,
+			"PUM": 7,
+			"PUI": 1,
 			"DEATH": 0,
 			"RECOVERED": 0
 		},
@@ -272,7 +272,7 @@ const barangayBoundary = {
 			"POP":15390,
 			"AREA":550,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 10,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -470,8 +470,8 @@ const barangayBoundary = {
 			"NAME":"Brgy. Madaum",
 			"POP":10721,
 			"AREA":2665,
-			"CC": 1,
-			"PUM": 0,
+			"CC": 0,
+			"PUM": 2,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -585,7 +585,7 @@ const barangayBoundary = {
 			"POP":10216,
 			"AREA":2665,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 8,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -629,9 +629,9 @@ const barangayBoundary = {
 			"NAME":"Brgy. Magugpo East",
 			"POP":14427,
 			"AREA":255.51,
-			"CC": 1,
-			"PUM": 0,
-			"PUI": 1,
+			"CC": 0,
+			"PUM": 3,
+			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
 		},
@@ -682,7 +682,7 @@ const barangayBoundary = {
 			"AREA":73.48,
 			"CC": 0,
 			"PUM": 1,
-			"PUI": 1,
+			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
 		},
@@ -706,7 +706,7 @@ const barangayBoundary = {
 			"POP":3165,
 			"AREA":980.55,
 			"CC": 0,
-			"PUM": 2,
+			"PUM": 6,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -784,7 +784,7 @@ const barangayBoundary = {
 			"POP":38963,
 			"AREA":1176,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 9,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1025,7 +1025,7 @@ const barangayBoundary = {
 			"POP":1115,
 			"AREA":522,
 			"CC": 0,
-			"PUM": 0,
+			"PUM": 1,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1057,7 +1057,7 @@ const barangayBoundary = {
 			"POP":4796,
 			"AREA":802,
 			"CC": 0,
-			"PUM": 5,
+			"PUM": 0,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1156,8 +1156,8 @@ const barangayBoundary = {
 			"NAME":"Brgy. Visayan Village",
 			"POP":40297,
 			"AREA":1520,
-			"CC": 2,
-			"PUM": 7,
+			"CC": 0,
+			"PUM": 31,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0

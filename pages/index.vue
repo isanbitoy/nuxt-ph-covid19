@@ -11,6 +11,11 @@
 				<the-map />
 			</section>
 		</main>
+		<div class="flourish-embed flourish-chart" 
+			data-src="visualisation/2389383" 
+			data-url="https://flo.uri.sh/visualisation/2389383/embed">
+			<script src="https://public.flourish.studio/resources/embed.js"></script>
+		</div>
 		<the-footer />
 	</div>
 </template>

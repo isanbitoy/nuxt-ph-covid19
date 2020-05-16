@@ -7,7 +7,7 @@ const barangayBoundary = {
 			"POP":29743,
 			"AREA":2630,
 			"CC": 0,
-			"PUM": 11,
+			"PUM": 8,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -77,7 +77,7 @@ const barangayBoundary = {
 			"POP":4227,
 			"AREA":1485,
 			"CC": 0,
-			"PUM": 3,
+			"PUM": 2,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -235,7 +235,7 @@ const barangayBoundary = {
 			"POP":10612,
 			"AREA":880,
 			"CC": 0,
-			"PUM": 7,
+			"PUM": 8,
 			"PUI": 1,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -272,7 +272,7 @@ const barangayBoundary = {
 			"POP":15390,
 			"AREA":550,
 			"CC": 0,
-			"PUM": 10,
+			"PUM": 8,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -630,7 +630,7 @@ const barangayBoundary = {
 			"POP":14427,
 			"AREA":255.51,
 			"CC": 0,
-			"PUM": 3,
+			"PUM": 2,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -681,7 +681,7 @@ const barangayBoundary = {
 			"POP":9344,
 			"AREA":73.48,
 			"CC": 0,
-			"PUM": 1,
+			"PUM": 2,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -706,7 +706,7 @@ const barangayBoundary = {
 			"POP":3165,
 			"AREA":980.55,
 			"CC": 0,
-			"PUM": 6,
+			"PUM": 3,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -784,7 +784,7 @@ const barangayBoundary = {
 			"POP":38963,
 			"AREA":1176,
 			"CC": 0,
-			"PUM": 9,
+			"PUM": 7,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1099,7 +1099,7 @@ const barangayBoundary = {
 			"POP":17317,
 			"AREA":609,
 			"CC": 0,
-			"PUM": 1,
+			"PUM": 4,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
@@ -1157,7 +1157,7 @@ const barangayBoundary = {
 			"POP":40297,
 			"AREA":1520,
 			"CC": 0,
-			"PUM": 31,
+			"PUM": 21,
 			"PUI": 0,
 			"DEATH": 0,
 			"RECOVERED": 0
